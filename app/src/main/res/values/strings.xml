@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="incanC7">C7 Lights</string>
+    <string name="light1Hint">How many?</string>
+    <string name="incanMini">Mini Lights</string>
+    <string name="light2Hint">How many?</string>
+    <string name="incanNet">Net Lights</string>
+    <string name="light3Hint">How many?</string>
+    <string name="calcBtn">Calculate</string>
+    <string name="TotalCostTxt">TotalCost</string>
+    <string name="TotalWattsText">Total Watts</string>
+    <string name="TimerText">Timers</string>
+    <string name="light4Hint">How many?</string>
+    <string name="warningText">WATTS OVER 1440!</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="incandescent">Incandescent</string>
+    <string name="incandescentCaps">INCANDESCENT</string>
+    <string name="led">LED</string>
+    <string name="apply">Apply</string>
+    <string name="light_1">Light 1</string>
+    <string name="light_2">Light 2</string>
+    <string name="light_3">Light 3</string>
+    <string name="reset">RESET</string>
+    <string name="name_of_light">Name of light</string>
+    <string name="light_4">Light 4</string>
+    <string name="wattage_per_foot">Wattage per foot</string>
+    <string name="price_per_foot">Price per foot</string>
+    <string name="price_per_foot_hint">Price per foot: </string>
+    <string name="watts_per_foot_hint">Watts per foot: </string>
+    <string name="incan_settings">Incandescent Settings</string>
+    <string name="LED_settings">LED Settings</string>
+
+</resources>
